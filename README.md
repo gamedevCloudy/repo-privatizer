@@ -1,10 +1,6 @@
 # repo-privatizer
 
-Here's a clean, professional `README.md` without emojis for your **GitHub Repository Privacy Manager** script:
-
----
-
-# GitHub Repository Privacy Manager
+## GitHub Repository Privacy Manager
 
 A simple CLI tool to help you list and make your GitHub repositories private with ease.
 
